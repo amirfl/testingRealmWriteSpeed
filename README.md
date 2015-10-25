@@ -1,4 +1,6 @@
-# testingRealmWriteSpeed
+# Testing Realm Write Speed
+
+Realm is a mobile database replacing the need for SQLite & Core Data. [Learn More at Realm.io](http://www.realm.io)
 
 Compares write speeds between:
 *Adding one object at a time to realm
